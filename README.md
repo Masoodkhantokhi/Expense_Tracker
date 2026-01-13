@@ -1,7 +1,7 @@
-# Expense_Tracker
+## Expense_Tracker_Python_Project
 A simple Python project that helps users record daily expenses and view total spending. It allows adding and viewing expenses using basic Python concepts like variables, lists, and file handling. This project was built to practice core Python fundamentals and logical thinking.
 
-## Project Functions
+### Project Functions
 
 - Add a new expense with date, category, description, and amount. 
 - Store expenses using a list of dictionaries.
